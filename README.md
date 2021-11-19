@@ -1,5 +1,7 @@
 # DeliveryContinuoImagen
 
+Crea la imagen del ambiente de producción y la sube a Docker Hub.
+
 Integrantes: 
 <ol>
 <li>Sebastian Camilo Vanegas Ayala - 20202495019</li> 
